@@ -1,0 +1,19 @@
+{
+  "name": "Gallery",
+  "version": "0.0.0",
+  "main": "Gruntfile.js",
+  "description": "Test Tasks.",
+  "author": "Josh",
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-contrib-jshint": "0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nowhere"
+  },
+  "readme": {
+    "text": "README info"
+  }
+}
