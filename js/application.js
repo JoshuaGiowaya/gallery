@@ -1,0 +1,1 @@
+// namespaces and global config for all js modules
